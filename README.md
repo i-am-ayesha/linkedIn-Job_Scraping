@@ -1,5 +1,5 @@
 # 🚀 LinkedIn Job Scraper with Selenium
-In this project, I extract job opening details and links using Selenium for web scraping in Python. This project is perfect if you’re looking to demonstrate your data analysis skills or create a compelling portfolio piece that will stand out to potential employers. Here's how to execute it:
+This project uses Selenium to scrape job postings from LinkedIn, extracting key details like job titles, companies, and links. It helps you analyze job market trends and draw valuable insights from it.
 
 ## 📌 Project Overview
 This script scrapes job postings from LinkedIn and allows you to analyze the data for valuable insights. By following the steps, you’ll be able to:
