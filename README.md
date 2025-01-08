@@ -15,12 +15,14 @@ This script scrapes job postings from LinkedIn and allows you to analyze the dat
 ## ⚙️ How to Set Up and Run
 #### 1. Clone the Repo:
 
-`git clone https://github.com/your-repo/linkedin-job-scraper.git
-cd linkedin-job-scraper`
+`git clone https://github.com/your-repo/linkedin-job-scraper.git`
+
+`cd linkedin-job-scraper `
 
 #### 2. Set Up Virtual Environment (Optional but recommended):
  
 `python -m venv venv`
+
 `venv\Scripts\activate`
 
 #### 3.Install Required Packages:
